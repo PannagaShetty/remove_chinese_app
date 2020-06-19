@@ -497,4 +497,12 @@ List<Apps> chineseApp = [
           "https://lh3.googleusercontent.com/AeMKuV3iGZsHPeSU_g13oYW0msutmjt3QiEbJvTiMh6dqFvyeTS-LHVs4Sa0d9q7RElI=s180-rw",
     ),
   ]),
+  Apps(name: "Share Me", packageName: "com.xiaomi.midrop", alternative: [
+    AlternateApps(
+        altName: "JioSwitch",
+        link:
+            "https://lh3.googleusercontent.com/N3UWIAEcUzQCivUw2Nsn97i3ZlLNi5ycIu6EDYE8wy052QVaxKb6uNqhf9NGPq4tOU8=s180-rw",
+        appIcon:
+            "https://lh3.googleusercontent.com/N3UWIAEcUzQCivUw2Nsn97i3ZlLNi5ycIu6EDYE8wy052QVaxKb6uNqhf9NGPq4tOU8=s180-rw")
+  ]),
 ];
